@@ -1,6 +1,6 @@
 **NOTE:** *This product has been retired from our catalog. If you are looking for more up-to-date info, please check out some of these resources to see how other users are still hacking and improving on this product.*
 * *[SparkFun Forum](https://forum.sparkfun.com/)*
-* *[Comments Here on GitHub](https://github.com/sparkfun/ColorLCDShield/issues)*
+* *[Comments Here on GitHub](https://github.com/sparkfun/Mega_Pro/issues)*
 * *[IRC Channel](https://www.sparkfun.com/news/263)*
 
 Mega Pro
